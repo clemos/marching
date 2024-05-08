@@ -4,7 +4,6 @@
   "description": "Marching.js is a JavaScript library that compiles GLSL ray marchers.",
   "main": "js/index.js",
   "devDependencies": {
-    "@bandaloo/merge-pass": "^0.6.4",
     "browserify": "^14.5.0",
     "codemirror": "^5.5.0",
     "get-pixels": "^3.3.2",
@@ -31,6 +30,7 @@
     "watchify": "^3.10.0"
   },
   "dependencies": {
+    "@bandaloo/merge-pass": "^0.6.4",
     "glslify": "^6.4.1"
   },
   "scripts": {
